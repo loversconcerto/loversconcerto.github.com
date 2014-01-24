@@ -1,0 +1,9 @@
+name: "Loversconcerto"
+description: "This is only a excersice for my website."
+
+url: "http://loversconcerto.github.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
