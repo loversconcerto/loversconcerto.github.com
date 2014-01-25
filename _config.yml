@@ -3,7 +3,7 @@ description: "This is only a excersice for my website."
 
 url: "http://loversconcerto.github.io"
 
-paginate: 10
+paginate: 5
 
 markdown: rdiscount
 permalink: /:title/
