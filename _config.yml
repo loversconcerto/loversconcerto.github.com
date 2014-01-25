@@ -6,4 +6,4 @@ url: "http://loversconcerto.github.com"
 paginate: 10
 
 markdown: rdiscount
-permalink: /:title
+permalink: /:title/
