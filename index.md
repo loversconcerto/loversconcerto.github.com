@@ -2,4 +2,12 @@
 layout: default
 title: Loversconcerto
 ---
+{% for post in site.posts limit: 10 %}
 
+{% endfor %}
+
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
